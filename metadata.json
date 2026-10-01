@@ -1,0 +1,7 @@
+{
+  "name": "AuraAge - AI Biometric Age & Vitality Predictor",
+  "description": "Mobile-first AI biometric scanner predicting perceived age, biological skin age, emotional radiance, and facial vitality metrics with time-travel projections.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
